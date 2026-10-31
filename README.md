@@ -12,3 +12,8 @@ This repository is for learning Git, GitHub, and GitHub Actions.
 ## Git Practice
 
 Learning Git commands for QA automation and CI/CD.
+
+
+## Branch Practice
+
+Learning how to use branches in Git.
