@@ -1,0 +1,10 @@
+# QA Git and GitHub Actions Practice
+
+This repository is for learning Git, GitHub, and GitHub Actions.
+
+## Learning Goals
+
+- Understand Git fundamentals
+- Practise Git commands
+- Build a CI/CD pipeline
+- Automate Selenium tests
