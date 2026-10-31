@@ -8,3 +8,7 @@ This repository is for learning Git, GitHub, and GitHub Actions.
 - Practise Git commands
 - Build a CI/CD pipeline
 - Automate Selenium tests
+
+## Git Practice
+
+Learning Git commands for QA automation and CI/CD.
