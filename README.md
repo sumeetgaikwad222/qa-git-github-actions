@@ -17,3 +17,7 @@ Learning Git commands for QA automation and CI/CD.
 ## Branch Practice
 
 Learning how to use branches in Git.
+
+Practicing Git commands in my QA project.
+
+This is my personal commit
